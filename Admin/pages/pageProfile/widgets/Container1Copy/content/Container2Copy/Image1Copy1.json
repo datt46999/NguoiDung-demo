@@ -1,0 +1,43 @@
+{
+  "animateLoading": true,
+  "borderRadius": "45%",
+  "bottomRow": 23,
+  "boxShadow": "0 10px 15px -3px rgba(0, 0, 0, 0.1), 0 4px 6px -2px rgba(0, 0, 0, 0.05)",
+  "defaultImage": "https://assets.appsmith.com/widgets/default.png",
+  "dynamicBindingPathList": [],
+  "dynamicPropertyPathList": [
+    {
+      "key": "borderRadius"
+    },
+    {
+      "key": "boxShadow"
+    }
+  ],
+  "dynamicTriggerPathList": [],
+  "enableDownload": false,
+  "enableRotation": false,
+  "flexVerticalAlignment": "start",
+  "image": "https://scontent.fsgn2-9.fna.fbcdn.net/v/t39.30808-1/312936125_1106617766656955_6820153393550342771_n.jpg?stp=dst-jpg_s200x200&_nc_cat=103&ccb=1-7&_nc_sid=0ecb9b&_nc_eui2=AeFZCBLO56ZdpKAsiXH48UEbtAm6mNJNbni0CbqY0k1ueIVuiyAZgbqBF2zTWPgGDLb1K3ua1I5fAbKRq6CHRP10&_nc_ohc=NW3x3lSKqRkQ7kNvgGvqa0n&_nc_zt=24&_nc_ht=scontent.fsgn2-9.fna&_nc_gid=AbYUkCnWEI3Xey4aqHk8NcO&oh=00_AYBPO1S9Os7Hv04sAbY3-R6Im1KaSkVOjF-EUnKPanWNww&oe=67558DDD",
+  "imageShape": "RECTANGLE",
+  "isLoading": false,
+  "isVisible": true,
+  "key": "j3j1f2rchs",
+  "leftColumn": 18,
+  "maxZoomLevel": 1,
+  "mobileBottomRow": 16,
+  "mobileLeftColumn": 21,
+  "mobileRightColumn": 33,
+  "mobileTopRow": 4,
+  "needsErrorInfo": false,
+  "objectFit": "cover",
+  "parentColumnSpace": 4.8671875,
+  "parentId": "cqyyff53y5",
+  "parentRowSpace": 10,
+  "renderMode": "CANVAS",
+  "rightColumn": 46,
+  "topRow": 8,
+  "type": "IMAGE_WIDGET",
+  "version": 1,
+  "widgetId": "guzyne26d6",
+  "widgetName": "Image1Copy1"
+}

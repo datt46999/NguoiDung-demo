@@ -1,0 +1,25 @@
+{
+  "gitSyncId": "6750f0cdf0b1ed2b4a0eb5b4_93816f7b-ac90-4c6e-ab8f-cf1467a54088",
+  "id": "pageYeuCauCuuTro_huyNhanLucs",
+  "moduleUUID": "f2fafea1-9d40-48e8-9dda-f659e25d9692",
+  "packageUUID": "1d2e9aac-e0a1-41c9-9091-c8efae6f5d52",
+  "type": "QUERY_MODULE",
+  "unpublishedModuleInstance": {
+    "contextType": "PAGE",
+    "inputs": {
+      "input1": "{{table_huydieuphoi.triggeredRow.id_nhan_luc}}"
+    },
+    "moduleInputs": {
+      "qfsuipqfcu": {
+        "controlType": "INPUT_TEXT",
+        "defaultValue": "",
+        "id": "qfsuipqfcu",
+        "label": "input1",
+        "propertyName": "inputs.input1"
+      }
+    },
+    "name": "huyNhanLucs",
+    "pageId": "pageYeuCauCuuTro",
+    "version": "0.0.1"
+  }
+}

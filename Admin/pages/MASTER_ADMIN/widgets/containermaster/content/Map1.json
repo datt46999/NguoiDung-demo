@@ -1,0 +1,49 @@
+{
+  "allowZoom": true,
+  "animateLoading": true,
+  "borderRadius": "{{appsmith.theme.borderRadius.appBorderRadius}}",
+  "bottomRow": 91,
+  "boxShadow": "0 10px 15px -3px rgba(0, 0, 0, 0.1), 0 4px 6px -2px rgba(0, 0, 0, 0.05)",
+  "defaultMarkers": "[\n  { \"lat\": 21.0285, \"long\": 105.8542, \"popup\": \"Hà Nội: Đã hỗ trợ 500 người\" },\n  { \"lat\": 10.7769, \"long\": 106.7009, \"popup\": \"TP.HCM: Đang vận chuyển 300 suất ăn\" }\n]\n",
+  "dynamicBindingPathList": [
+    {
+      "key": "borderRadius"
+    }
+  ],
+  "dynamicTriggerPathList": [],
+  "enableMapTypeControl": false,
+  "enablePickLocation": true,
+  "enableSearch": true,
+  "flexVerticalAlignment": "start",
+  "isClickedMarkerCentered": true,
+  "isDisabled": false,
+  "isLoading": false,
+  "isVisible": true,
+  "key": "62rt7aco60",
+  "leftColumn": 0,
+  "mapCenter": {
+    "lat": 21.0277644,
+    "long": 105.8341598,
+    "title": "Hà Nội, Việt Nam"
+  },
+  "minWidth": 450,
+  "mobileBottomRow": 106,
+  "mobileLeftColumn": 0,
+  "mobileRightColumn": 11,
+  "mobileTopRow": 66,
+  "needsErrorInfo": false,
+  "originalBottomRow": 91,
+  "originalTopRow": 50,
+  "parentColumnSpace": 14.283203125,
+  "parentId": "279zias17u",
+  "parentRowSpace": 10,
+  "renderMode": "CANVAS",
+  "responsiveBehavior": "fill",
+  "rightColumn": 64,
+  "topRow": 50,
+  "type": "MAP_WIDGET",
+  "version": 1,
+  "widgetId": "9pvylqiwqz",
+  "widgetName": "Map1",
+  "zoomLevel": 40
+}
